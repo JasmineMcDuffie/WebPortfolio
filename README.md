@@ -1,1 +1,1 @@
-# WebPortfolio
+For my web portfolio I will be displaying my likes, interests, and qualifications for future employers. I will attach my web portfolio when applying to future jobs. My goal is for the people who view this to know about me by reading my portfolio. 
