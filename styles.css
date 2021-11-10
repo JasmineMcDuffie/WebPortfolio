@@ -1,0 +1,30 @@
+body
+{background-color: #DEAB90;
+font-family: sans-serif;}
+
+h1
+{font-size: 200%;
+font-weight: bolder;
+color:#774936}
+
+div
+.header
+{font-family: sans-sans-serif;
+font-size: 100%;
+float: left;
+color: #B07D62}
+
+u1 {list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #B07D62}
+
+li {
+float: left;}
+
+li a {
+  display: block;
+  color: tan;
+  text-align: center;
+  padding: 15px 18px;
+}
