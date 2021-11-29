@@ -1,0 +1,45 @@
+<html>
+<head>
+   <link rel="stylesheet" href="styles.css">
+   <title>
+   Jasmine McDuffie's Web Portfolio
+   </title>
+  </head>
+
+  <body>
+
+     <div class="navbar">
+     <div class=header> <h1> Jasmine McDuffie's Web Portfolio </h1> </div>
+       <a href="home.html">Home</a></li>
+       <a href="about.html">About me</a></li>
+       <a href="Resume.html">My resume</a></li>
+       <a href="Mywriting.html">My writing</a></li>
+       <a href="Visualargument.html">My Visual Argument</a></li>
+     </div>
+   </div>
+ </div>
+
+<div id="banner">
+
+ <p>
+ <img src="images/banner.png" width="50%" height="150"
+ alt="hello"/>
+
+</p>
+</div>
+
+ <div class="grid-container">
+ <div class="grid-item">
+ <p> Welcome to my web porfolio, get to know me! </p>
+</div>
+</div>
+
+<div id="footer">
+  <p>&copy: Copyright 2021</p>
+<div class="pagefooter">
+<footer>
+</footer>
+</div>
+
+</body>
+</html>
